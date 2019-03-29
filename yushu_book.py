@@ -16,3 +16,4 @@ class YuShuBook:
         url = cls.keyword_url.format(keyword, count, start)
         result = HTTP.get(url)
         return result
+#laji!!!! Rubbish codes !!!!
